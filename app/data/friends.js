@@ -2,7 +2,7 @@
 
 var friendsArray = [
     {
-        Name:"",
+        name:"",
         profilePic:"",
         matchScores: [""]
     }
